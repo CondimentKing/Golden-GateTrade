@@ -75,41 +75,6 @@ body {
     background-color: #f9f9f9;
 }
 
-.team-grid {
-    display: flex;
-    gap: 40px;
-    flex-wrap: wrap;
-}
-
-.team-member {
-    flex: 1;
-    min-width: 280px;
-    background: #eef2f3;
-    padding: 20px;
-    border-radius: 8px;
-}
-
-.testimonial {
-    margin-top: 20px;
-    padding: 20px;
-    border-left: 4px solid #0066cc;
-    background: #f7fbfc;
-}
-
-.country-list {
-    columns: 3;
-    column-gap: 40px;
-    margin-top: 20px;
-}
-
-.faq-item {
-    margin-bottom: 20px;
-}
-
-.faq-item h4 {
-    color: #003366;
-}
-
 /* Footer */
 .footer {
     background: #002244;
