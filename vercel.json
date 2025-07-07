@@ -1,4 +1,5 @@
 {
+  "framework": "none",
   "builds": [
     {
       "src": "website.html",
